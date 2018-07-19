@@ -1,0 +1,2 @@
+# J2EE-Project
+Year 2 Semester 2 - DEA Project- Collaboration between academia and industry is increasingly a critical component of efficient national innovation systems. But currently there is no such system which has automated this information sharing. The news related to the events held in both parties are published in different places and it is difficult to find the information about them. We have created a single web based application platform for this.
